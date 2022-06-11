@@ -1,0 +1,29 @@
+[history]
+label = "History"
+
+[[history.questions]]
+question = "When did Nigeria gain Independence "
+answers = ["1960"]
+alternatives = ["1963", "1959", "1234"]
+hint = "The beginning of a decade"
+explanation = """Lorem ipsum"""
+
+
+[[history.questions]]
+question = "Who is the president of the USA "
+answers = ["Biden", "Joe Biden"]
+alternatives = ["Obama", "Jennifer", "Joseph"]
+hint = "Starts with a consonant"
+explanation = """Lorem ipsum-2"""
+
+
+[trivia]
+label = "Trivia"
+
+[[trivia.questions]]
+question = "What month has 28 days "
+answers = ["All"]
+alternatives = ["Feb", "02", "February"]
+hint = "Even Febuary has 28 days"
+
+
